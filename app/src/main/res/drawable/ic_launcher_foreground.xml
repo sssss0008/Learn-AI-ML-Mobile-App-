@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="0.82"
+        android:scaleY="0.82"
+        android:translateX="9.72"
+        android:translateY="9.72">
+        <!-- Connecting network lines (synapses) -->
+        <path
+            android:pathData="M54,26 L34,40 M54,26 L74,40 M34,40 L28,62 M74,40 L80,62 M34,40 L54,54 M74,40 L54,54 M28,62 L42,78 M80,62 L66,78 M54,54 L42,78 M54,54 L66,78 M42,78 L54,86 M66,78 L54,86 M34,40 L74,40 M28,62 L80,62"
+            android:strokeWidth="2.2"
+            android:strokeColor="#5EEAD4"
+            android:strokeAlpha="0.75" />
+        <path
+            android:pathData="M54,34 L40,54 L54,74 L68,54 Z"
+            android:strokeWidth="1.8"
+            android:strokeColor="#818CF8"
+            android:fillColor="#15818CF8" />
+
+        <!-- Outer brain contour nodes -->
+        <path
+            android:pathData="M54,26m-6,0a6,6 0 1,1 12,0a6,6 0 1,1 -12,0"
+            android:fillColor="#38BDF8" />
+        <path
+            android:pathData="M34,40m-5.5,0a5.5,5.5 0 1,1 11,0a5.5,5.5 0 1,1 -11,0"
+            android:fillColor="#818CF8" />
+        <path
+            android:pathData="M74,40m-5.5,0a5.5,5.5 0 1,1 11,0a5.5,5.5 0 1,1 -11,0"
+            android:fillColor="#818CF8" />
+        <path
+            android:pathData="M28,62m-5.5,0a5.5,5.5 0 1,1 11,0a5.5,5.5 0 1,1 -11,0"
+            android:fillColor="#C084FC" />
+        <path
+            android:pathData="M80,62m-5.5,0a5.5,5.5 0 1,1 11,0a5.5,5.5 0 1,1 -11,0"
+            android:fillColor="#C084FC" />
+        <path
+            android:pathData="M42,78m-5,0a5,5 0 1,1 10,0a5,5 0 1,1 -10,0"
+            android:fillColor="#34D399" />
+        <path
+            android:pathData="M66,78m-5,0a5,5 0 1,1 10,0a5,5 0 1,1 -10,0"
+            android:fillColor="#34D399" />
+        <path
+            android:pathData="M54,86m-4.5,0a4.5,4.5 0 1,1 9,0a4.5,4.5 0 1,1 -9,0"
+            android:fillColor="#F472B6" />
+
+        <!-- Core luminous AI center -->
+        <path
+            android:pathData="M54,54m-7,0a7,7 0 1,1 14,0a7,7 0 1,1 -14,0"
+            android:fillColor="#FFFFFF" />
+        <path
+            android:pathData="M54,54m-4,0a4,4 0 1,1 8,0a4,4 0 1,1 -8,0"
+            android:fillColor="#0284C7" />
+    </group>
+</vector>

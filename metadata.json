@@ -1,0 +1,6 @@
+{
+  "name": "AI ML Academy",
+  "description": "Comprehensive AI and Machine Learning Learning Platform with interactive labs, Python editor, neural network visualizer, RAG & Agent builders by Awiskar Acharya",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
